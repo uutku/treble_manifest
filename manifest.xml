@@ -11,3 +11,4 @@
 
 
 <project path="vendor/magisk" name="vendor_magisk" remote="phh" revision="android-10.0" />
+</manifest>
