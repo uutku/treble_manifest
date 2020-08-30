@@ -3,6 +3,7 @@
 <remote name="phh" fetch="https://github.com/phhusson/" />
 <remote name="yey" fetch="https://github.com/yanikyigitt/" />
 
+<project path="vendor/GM/GM8_sprout" name="vendor_GM_GM8_sprout" remote="yey" revision="stockbase-ten" /> 
 <project path="device/GM/GM8_sprout" name="device_GM_GM8_sprout-phh" remote="yey" revision="android-10.0" />
 <project path="vendor/vndk" name="vendor_vndk" remote="phh" revision="android-10.0" />
 <project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="master" />
